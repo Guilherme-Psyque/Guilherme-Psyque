@@ -1,16 +1,20 @@
-## Hi there 👋
+### OPA! Eu sou o Guilherme Santos 👋
 
-<!--
-**Guilherme-Psyque/Guilherme-Psyque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante de Analise e Desenvolvimento de Sistemas focado nos estudos e em criar soluções eficientes. Gosto de transformar ideias complexas em aplicações reais e estou sempre em busca do próximo desafio.
 
-Here are some ideas to get you started:
+🛠️ **Minhas Ferramentas & Tecnologias:**
+* **Linguagens:** [HTML, CSS, JavaScript, Java, Python, PHP]
+* **Frameworks/Libs:** [Node.js, Spring Boot]
+* **Banco de Dados:** ex: [MySQL, MongoDB]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **O que estou fazendo agora:**
+* 💻 Trabalhando em: [Projeto ACEX para Gestão de gastos pessoais]
+* 📚 Estudando atualmente: [PHP, JAVA, DB]
+* 🤝 Aberto para colaborar em: [Projetos Open Source, Hackathons]
+
+📫 **Bora trocar uma ideia?**
+* **LinkedIn:** [https://www.linkedin.com/in/guilhermesilvads/]
+* **Whatsapp:** [https://api.whatsapp.com/send/?phone=5551998985698&text&type=phone_number&app_absent=0]
+* **E-mail:**
+
+⚡ **Curiosidade:** [Atualmente estou servindo o serviço obrigatório das forças armadas do exercito Brasileiro].
