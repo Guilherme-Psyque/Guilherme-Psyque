@@ -16,7 +16,7 @@ Sou um estudante de Analise e Desenvolvimento de Sistemas focado nos estudos e e
 📫 **Bora trocar uma ideia?**
 * **LinkedIn:** [https://www.linkedin.com/in/guilhermesilvads/]
 * **Whatsapp:** [https://api.whatsapp.com/send/?phone=5551998985698&text&type=phone_number&app_absent=0]
-* **E-mail:**
+* **E-mail:** [gssantos4560@gmail.com]
 * **Linguas:** [Português 🇧🇷 English 🇺🇸]
 
 ⚡ **Curiosidade:** [Atualmente estou em atividade no serviço obrigatório das forças armadas do exercito Brasileiro].
