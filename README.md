@@ -1,4 +1,4 @@
-### OPA! Eu sou o Guilherme Santos 👋
+### OPA! Eu sou o Guilherme Santos 👋.
 
 Sou um estudante de Analise e Desenvolvimento de Sistemas focado nos estudos e em criar soluções eficientes. Gosto de transformar ideias complexas em aplicações reais e estou sempre em busca do próximo desafio.
 
@@ -12,9 +12,11 @@ Sou um estudante de Analise e Desenvolvimento de Sistemas focado nos estudos e e
 * 📚 Estudando atualmente: [PHP, JAVA, DB]
 * 🤝 Aberto para colaborar em: [Projetos Open Source, Hackathons]
 
+
 📫 **Bora trocar uma ideia?**
 * **LinkedIn:** [https://www.linkedin.com/in/guilhermesilvads/]
 * **Whatsapp:** [https://api.whatsapp.com/send/?phone=5551998985698&text&type=phone_number&app_absent=0]
 * **E-mail:**
+* **Linguas:** [Português 🇧🇷 English 🇺🇸]
 
 ⚡ **Curiosidade:** [Atualmente estou em atividade no serviço obrigatório das forças armadas do exercito Brasileiro].
