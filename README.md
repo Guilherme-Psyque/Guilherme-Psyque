@@ -5,7 +5,7 @@ Sou um estudante de Analise e Desenvolvimento de Sistemas focado nos estudos e e
 🛠️ **Minhas Ferramentas & Tecnologias:**
 * **Linguagens:** [HTML, CSS, JavaScript, Java, Python, PHP]
 * **Frameworks/Libs:** [Node.js, Spring Boot]
-* **Banco de Dados:** ex: [MySQL, MongoDB]
+* **Banco de Dados:** ex: [PostgreSQL, MongoDB]
 
 🌱 **O que estou fazendo agora:**
 * 💻 Trabalhando em: [Projeto ACEX para Gestão de gastos pessoais]
