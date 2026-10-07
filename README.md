@@ -1,22 +1,30 @@
-### OPA! Eu sou o Guilherme Santos 👋.
+### OPA! Eu sou o Guilherme Santos 👋
 
-Sou um estudante de Analise e Desenvolvimento de Sistemas focado nos estudos e em criar soluções eficientes. Gosto de transformar ideias complexas em aplicações reais e estou sempre em busca do próximo desafio.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e atualmente atuo como **Estagiário de TI & Dados na CAH – Secretaria Municipal da Saúde de São Paulo (SMS-SP)**.
 
-🛠️ **Minhas Ferramentas & Tecnologias:**
-* **Linguagens:** [HTML, CSS, JavaScript, Java, Python, PHP]
-* **Frameworks/Libs:** [Node.js, Spring Boot]
-* **Banco de Dados:** ex: [PostgreSQL, MongoDB]
+Tenho interesse em **desenvolvimento de software, análise de dados e banco de dados**, buscando transformar problemas e ideias em soluções funcionais, organizadas e eficientes. No dia a dia, também trabalho com **Power BI, análise de indicadores e tratamento de dados**.
 
-🌱 **O que estou fazendo agora:**
-* 💻 Trabalhando em: [Projeto ACEX para Gestão de gastos pessoais]
-* 📚 Estudando atualmente: [PHP, JAVA, DB]
-* 🤝 Aberto para colaborar em: [Projetos Open Source, Hackathons]
+🛠️ **Tecnologias & Ferramentas**
 
+- **Linguagens:** Java, JavaScript, Python, PHP, HTML e CSS
+- **Back-end:** Node.js e Spring Boot
+- **Banco de Dados:** PostgreSQL e MongoDB
+- **Dados & BI:** Power BI, DAX e Power Query
+- **Versionamento:** Git e GitHub
 
-📫 **Bora trocar uma ideia?**
-* **LinkedIn:** [https://www.linkedin.com/in/guilhermesilvads/]
-* **Whatsapp:** [https://api.whatsapp.com/send/?phone=5551998985698&text&type=phone_number&app_absent=0]
-* **E-mail:** [gssantos4560@gmail.com]
-* **Idiomas:** [Português 🇧🇷 English 🇺🇸]
+🌱 **Atualmente**
 
-⚡ **Curiosidade:** [Atualmente estou em atividade no serviço obrigatório das forças armadas do exercito Brasileiro].
+- 💼 Atuando com **TI, Dados e indicadores na área da saúde**
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
+- 💻 Desenvolvendo projetos acadêmicos e pessoais, como aplicações web e sistemas voltados para gestão
+- 📚 Aprimorando meus conhecimentos em **Java, PHP, bancos de dados e desenvolvimento back-end**
+- 🤝 Aberto a colaborar em **projetos Open Source, Hackathons e projetos de tecnologia**
+
+📫 **Vamos nos conectar?**
+
+- **LinkedIn:** https://www.linkedin.com/in/guilhermesilvads/
+- **WhatsApp:** https://api.whatsapp.com/send/?phone=5551998985698
+- **E-mail:** gssantos4560@gmail.com
+- **Idiomas:** Português 🇧🇷 | English 🇺🇸
+
+⚡ **Curiosidade:** Atualmente também estou cumprindo o **Serviço Militar Obrigatório no Exército Brasileiro**, conciliando essa experiência com minha formação e desenvolvimento profissional na área de tecnologia.
